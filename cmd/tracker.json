@@ -1,0 +1,27 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "description": "add",
+      "status": "todo",
+      "created": "2025-04-23T20:52:00.4162569+02:00",
+      "updated": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": 1,
+      "description": "add",
+      "status": "todo",
+      "created": "2025-04-23T21:02:55.2143171+02:00",
+      "updated": "0001-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "description": "add",
+      "status": "todo",
+      "created": "2025-04-23T21:03:10.6542735+02:00",
+      "updated": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "counter": 3,
+  "elements": 3
+}
