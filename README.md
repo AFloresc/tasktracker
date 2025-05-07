@@ -1,4 +1,4 @@
-# Task Tracker
+# Task Tracker (check master branch)
 Simple JSON task tracker
 
 A CLI app to track your tasks and manage your to-do list. 
